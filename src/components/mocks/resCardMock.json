@@ -1,0 +1,69 @@
+{
+    "info": {
+        "id": "639528",
+        "name": "Dum Safar Biryani",
+        "cloudinaryImageId": "zvvosi8aw7mujogghnqk",
+        "locality": "Global Highstreet Mall",
+        "areaName": "Hinjawadi",
+        "costForTwo": "₹500 for two",
+        "cuisines": [
+            "Biryani",
+            "Kebabs",
+            "Tandoor",
+            "Indian",
+            "Desserts"
+        ],
+        "avgRating": 3.9,
+        "parentId": "351013",
+        "avgRatingString": "3.9",
+        "totalRatingsString": "100+",
+        "sla": {
+            "deliveryTime": 68,
+            "lastMileTravel": 3,
+            "serviceability": "SERVICEABLE",
+            "slaString": "65-70 mins",
+            "lastMileTravelString": "3.0 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2024-08-26 23:30:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "ITEMS",
+            "subHeader": "AT ₹149"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "--"
+            }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/dum-safar-biryani-global-highstreet-mall-hinjawadi-pune-639528",
+        "type": "WEBLINK"
+    }
+}
